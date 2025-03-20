@@ -1,2 +1,2 @@
 # PROJECT-1
-"In order to monitor and assess our bank's lending activities and performance, we need to create a comprehensive Bank Loan Report., The report will help us make data-driven decisions, track our loan portfolio's health, and identify trends that can inform our lending strategies.
+In order to monitor and assess  bank's lending activities and performance, a comprehensive Bank Loan Report Dashboard was created for analysis, this report will help  make data-driven decisions, track  loan portfolio's health, and identify trends that can inform our lending strategies.
