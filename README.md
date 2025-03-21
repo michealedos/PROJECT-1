@@ -13,7 +13,7 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 - <a href="https://github.com/michealedos/PROJECT-1/blob/main/PROJECT-1.PNG">Summary</a>
 
 ## Good Loan vs. Bad Loan KPIs
-To assess our lending performance, we will categorize loans as Good or Bad based on status criteria, Those who under category loan status, "Fully Paid" and "Currrent" are "Good Loan" and while the "Charged off" Loan status regarded as Bad Loans"|
+To assess our lending performance, we will categorize loans as Good or Bad based on status criteria, Those under category loan status, "Fully Paid" and "Currrent" are "Good Loan" and while the "Charged off" Loan status regarded as Bad Loans"|
 ## Good Loan KPIs
 1. Good Loan Application % – Share of applications classified as 'Good Loans' ('Fully Paid' & 'Current').
 2. Good Loan Applications – Total number of 'Good Loan' applications.
@@ -24,8 +24,10 @@ To assess our lending performance, we will categorize loans as Good or Bad based
 2. Bad Loan Applications – Total number of 'Bad Loan' applications.
 3. Bad Loan Funded Amount – Total funds disbursed for 'Bad Loans.'
 4. Bad Loan Total Received Amount – Total payments received for 'Bad Loans.'
-Loan Status Grid View
+   
+## Loan Status Grid View
 A grid view report will categorize loans by status, providing insights into Total Applications, Funded Amount, Amount Received, MTD Metrics, Interest Rates, and DTI Ratios. This will support data-driven decisions and loan portfolio health assessment.
+- <a href="https://github.com/michealedos/PROJECT-1/blob/main/PROJECT-1.PNG">Summary</a>
 
 
 
