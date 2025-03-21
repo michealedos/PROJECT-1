@@ -10,7 +10,6 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 3.	 Total Amount Received: Tracking the total amount received from borrowers is essential for assessing the bank's cash flow and loan repayment. We should analyse the Month-to-Date (MTD) Total Amount Received and observe the Month-over-Month (MoM) changes.
 4.	 Average Interest Rate: Calculating the average interest rate across all loans, MTD, and monitoring the Month-over-Month (MoM) variations in interest rates will provide insights into our lending portfolio's overall cost.
 5.	 Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD, and track Month-over-Month (MoM) fluctuations.
-- <a href="https://github.com/michealedos/PROJECT-1/blob/main/PROJECT-1.PNG">Summary</a>
 
 ## Good Loan vs. Bad Loan KPIs
 To assess our lending performance, we will categorize loans as Good or Bad based on status criteria, Those under category loan status, "Fully Paid" and "Currrent" are "Good Loan" and while the "Charged off" Loan status regarded as Bad Loans"|
@@ -27,7 +26,7 @@ To assess our lending performance, we will categorize loans as Good or Bad based
    
 ## Loan Status Grid View
 A grid view report will categorize loans by status, providing insights into Total Applications, Funded Amount, Amount Received, MTD Metrics, Interest Rates, and DTI Ratios. This will support data-driven decisions and loan portfolio health assessment.
-- <b href="https://github.com/michealedos/PROJECT-1/blob/main/PROJECT-1.PNG">Summary</b>
+- <a href="https://github.com/michealedos/PROJECT-1/blob/main/PROJECT-1.PNG">Summary</a>
 
 
 
