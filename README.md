@@ -14,10 +14,13 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 ## Good Loan vs. Bad Loan KPIs
 To assess our lending performance, we will categorize loans as Good or Bad based on status criteria, Those under category loan status, "Fully Paid" and "Currrent" are "Good Loan" and while the "Charged off" Loan status regarded as Bad Loans". The Good loans are issued loans, that are fully paid and currently paying their installment on or before the end of term, while the bad loans referred to as charged off are those who owns certain amount yet to be paid.
 From the  dashboard,  Good loans shows profitablity comapred to that of Bad loans. A funded amount of $370.2M was disbursed to 86.18% of Good loan appplicant, and payments recievied is $435.8M. WHile that of Bad loans leading to losses as a sum of $65.5M was funded to 13.82% of loan applicant and payments received $37.2M is decrease from the fund disbursed to loan applicant.
-## Loan Status Grid View
-A grid view report will categorize loans by status, providing insights into Total Applications, Funded Amount, Amount Received, MTD Metrics, Interest Rates, and DTI Ratios. This will support data-driven decisions and loan portfolio health assessment.
 - <a href="https://github.com/michealedos/PROJECT-1/blob/main/PROJECT-1.PNG"> PROJECT-1(Summary)</a>
 
+## Analysis
+1. Monthly Trends by Issue Date : from analsysis, there is an increase in their lending activities during the Months, as well as incraese in tota loan amount(funded amount) and total payments
+2. Region analysis by State: California  has high number of total loan applicant, also showing a high level of lending activities in terms of amount loaned and received.
+3. Loan Term Analysis : loan applicant prefer term of 36month(3years) duraton comapred to that of 60 months(5years) duration, because of the large number of issued loan for that specifice term.
+4. Loan Purpose Breakdown :
 
 
 
