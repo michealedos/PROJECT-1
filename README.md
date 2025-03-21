@@ -12,21 +12,26 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 5.	 Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD, and track Month-over-Month (MoM) fluctuations.
 
 ## Good Loan vs. Bad Loan KPIs
-To assess our lending performance, we will categorize loans as Good or Bad based on status criteria, Those under category loan status, "Fully Paid" and "Currrent" are "Good Loan" and while the "Charged off" Loan status regarded as Bad Loans"|
+To assess our lending performance, we will categorize loans as Good or Bad based on status criteria, Those under category loan status, "Fully Paid" and "Currrent" are "Good Loan" and while the "Charged off" Loan status regarded as Bad Loans". The Good loans are issued loans, that are fully paid and currently paying their installment on or before the end of term, while the bad loans referred to as charged off are those who owns certain amount yet to be paid.
+
+##  From the  dashboard Good loans shows profitablity comapred to that of Bad loans. A funded amount of $370.2M was disbursed to 86.18% of Good loan appplicant, and payments recievied is $435.8M. WHile that of Bad loans leading to losses as a sum of $65.5M was funded to 13.82% of loan applicant and payments received $37.2M is decrease from the fund disbursed to loan applicant
 ## Good Loan KPIs
-1. Good Loan Application % – Share of applications classified as 'Good Loans' ('Fully Paid' & 'Current').
-2. Good Loan Applications – Total number of 'Good Loan' applications.
-3. Good Loan Funded Amount – Total funds disbursed for 'Good Loans.'
-4. Good Loan Total Received Amount – Total payments received for 'Good Loans.'
+1. Total Loan Application (%) - from the data 86.18% of borrowers were under the criteria of 'Fully Paid' & 'Current'
+2. Total Funded Amount – Total funds of $370.2M was disbursed for loan applicaant
+3. Total Received Amount – Total payments received after loan were disbursed is $435.8M.
 ## Bad Loan KPIs
-1. Bad Loan Application % – Share of applications classified as 'Bad Loans' ('Charged Off').
-2. Bad Loan Applications – Total number of 'Bad Loan' applications.
-3. Bad Loan Funded Amount – Total funds disbursed for 'Bad Loans.'
-4. Bad Loan Total Received Amount – Total payments received for 'Bad Loans.'
+1. Total Loan Application % – 13.82% Of applicant are unable to pay their loan borrowed in due term.
+2. Total Funded Amount – funds disbursed for Bad Loans was a total amount of $65.5M .
+3. Total Received Amount – Total payments received from loan applicant under 'Bad Loans had a sum of $37.3M.,
+
+
    
 ## Loan Status Grid View
 A grid view report will categorize loans by status, providing insights into Total Applications, Funded Amount, Amount Received, MTD Metrics, Interest Rates, and DTI Ratios. This will support data-driven decisions and loan portfolio health assessment.
-- <a href="https://github.com/michealedos/PROJECT-1/blob/main/PROJECT-1.PNG">Summary</a>
+- <a href="https://github.com/michealedos/PROJECT-1/blob/main/PROJECT-1.PNG"> PROJECT-1(Summary)</a>
+
+## OVERVIEW
+1. Monthly Trends by Issue Date : From the monthly trend , total
 
 
 
