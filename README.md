@@ -27,7 +27,7 @@ To assess our lending performance, we will categorize loans as Good or Bad based
    
 ## Loan Status Grid View
 A grid view report will categorize loans by status, providing insights into Total Applications, Funded Amount, Amount Received, MTD Metrics, Interest Rates, and DTI Ratios. This will support data-driven decisions and loan portfolio health assessment.
-- <a href="https://github.com/michealedos/PROJECT-1/blob/main/PROJECT-1.PNG">Summary</a>
+- <b href="https://github.com/michealedos/PROJECT-1/blob/main/PROJECT-1.PNG">Summary</b>
 
 
 
