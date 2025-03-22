@@ -20,7 +20,8 @@ From the  dashboard,  Good loans shows profitablity comapred to that of Bad loan
 1. Monthly Trends by Issue Date : from analsysis, there is an increase in their lending activities during the Months, as well as incraese in tota loan amount(funded amount) and total payments
 2. Region analysis by State: California  has high number of total loan applicant, also showing a high level of lending activities in terms of amount loaned and received.
 3. Loan Term Analysis : loan applicant prefer term of 36month(3years) duraton comapred to that of 60 months(5years) duration, because of the large number of issued loan for that specifice term.
-4. Loan Purpose Breakdown :
+4. Loan Purpose: number of loan applicant seek more of debt consolidation comapred to other purposes due to simplicity of loan.
+6. Home Ownership Analysis: from the data home ownership such as Mortgage, Rent has a very high request on loan and also on total payments. Mortgage being the higehst total loan amaount and payment compared to that of Rent
 
 
 
