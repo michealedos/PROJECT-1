@@ -10,8 +10,7 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 3.	 Total payments Received: Tracking the total amount received from borrowers is essential for assessing the bank's cash flow and loan repayment.
 4.	 Average Interest Rate: Calculating the average interest rate across all loans.
 5.	 Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. 
-## Note: A Month to date and Month on Month analysis is done on the several KPI to check their total loan application, total loan amount, total payments received, average interest rate  and the ave
-## debt-to-Income Ratio. This is help check the financial performance of the bank, lending activities and health of the bank loan activities.
+## Note: A Month to date and Month on Month analysis is done on the several KPI to check their total loan application, total loan amount, total payments received, average interest rate  and the average debt-to-Income Ratio. This is help check the financial performance of the bank, lending activities and health of the bank loan activities.
 
 ## Good Loan vs. Bad Loan KPIs
 To assess our lending performance, we will categorize loans as Good or Bad based on status criteria, Those under category loan status, "Fully Paid" and "Currrent" are "Good Loan" and while the "Charged off" Loan status regarded as Bad Loans". The Good loans are issued loans, that are fully paid and currently paying their installment on or before the end of term, while the bad loans referred to as charged off are those who owns certain amount yet to be paid.
