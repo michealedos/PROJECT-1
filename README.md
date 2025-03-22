@@ -5,11 +5,13 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 ## Dataset 
 - <a href="https://github.com/michealedos/PROJECT-1/blob/main/financial_loan.csv">Dataset</a>
 ## Key Performance Indicators (KPIs) Requirements:
-1.	 Total Loan Applications: This analyse total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).
-2.	 Total Funded Amount: Total amount of funds disbursed as loans is crucial. Analysing MTD Total Funded Amount and the Month-over-Month (MoM) changes in this metric is important.
-3.	 Total Amount Received: Tracking the total amount received from borrowers is essential for assessing the bank's cash flow and loan repayment. We should analyse the Month-to-Date (MTD) Total Amount Received and observe the Month-over-Month (MoM) changes.
-4.	 Average Interest Rate: Calculating the average interest rate across all loans, MTD, and monitoring the Month-over-Month (MoM) variations in interest rates will provide insights into our lending portfolio's overall cost.
-5.	 Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD, and track Month-over-Month (MoM) fluctuations.
+1.	 Total Loan Applications: This analyse total number of loan applications received during a specified period.
+2.	 Total loan Amount: Total amount of funds disbursed as loans is crucial.
+3.	 Total payments Received: Tracking the total amount received from borrowers is essential for assessing the bank's cash flow and loan repayment.
+4.	 Average Interest Rate: Calculating the average interest rate across all loans.
+5.	 Average Debt-to-Income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health. 
+## Note: A Month to date and Month on Month analysis is done on the several KPI to check their total loan application, total loan amount, total payments received, average interest rate  and the ave
+## debt-to-Income Ratio. This is help check the financial performance of the bank, lending activities and health of the bank loan activities.
 
 ## Good Loan vs. Bad Loan KPIs
 To assess our lending performance, we will categorize loans as Good or Bad based on status criteria, Those under category loan status, "Fully Paid" and "Currrent" are "Good Loan" and while the "Charged off" Loan status regarded as Bad Loans". The Good loans are issued loans, that are fully paid and currently paying their installment on or before the end of term, while the bad loans referred to as charged off are those who owns certain amount yet to be paid.
