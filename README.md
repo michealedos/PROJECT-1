@@ -23,7 +23,7 @@ From the  dashboard,  Good loans shows profitablity comapred to that of Bad loan
 3. Loan Term Analysis : loan applicant prefer term of 36month(3years) duraton comapred to that of 60 months(5years) duration, because of the large number of issued loan for that specifice term.
 4. Loan Purpose: number of loan applicant seek more of debt consolidation comapred to other purposes due to simplicity of loan.
 6. Home Ownership Analysis: from the data home ownership such as Mortgage, Rent has a very high request on loan and also on total payments. Mortgage being the higehst total loan amaount and payment compared to that of Rent.
-- <a href="https://github.com/michealedos/PROJECT-1/blob/main/PROJECT-2.PNG">Overview</a>
+- <a href="https://github.com/michealedos/PROJECT-1/blob/main/PROJECT-2.PNG">PROJECT-2(Overview)</a>
 
 
 
